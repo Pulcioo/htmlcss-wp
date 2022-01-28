@@ -10,9 +10,18 @@
 }
 
 header{
-    background-color: rgb(214, 50, 214);
-    height: 70px;
     margin: 15px 70px;
+}
+
+.logo img{
+    height: 70px;
+}
+
+.logo li{
+    display: inline-block;
+    padding: 20px;
+    padding-left: 0;
+    color: lightgrey;
 }
 
 main{
