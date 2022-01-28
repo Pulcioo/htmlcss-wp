@@ -45,7 +45,7 @@ main{
     padding-bottom: 40px;
 }
 
-span{
+#evidence{
     font-size: 25px;
 }
 
@@ -137,7 +137,11 @@ h5{
 }
 
 footer{
-    background-color: rgb(90, 39, 110);
-    height: 35px;
     margin: 7.5px 70px;
+    text-align: center;
+    padding: 20px
+}
+
+#hearts{
+    color: red;
 }
